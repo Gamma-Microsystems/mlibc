@@ -1,1 +1,1 @@
-../../../../abis/dripos/auxv.h
+../../../../abis/sirius/auxv.h
